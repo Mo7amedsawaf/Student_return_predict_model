@@ -86,10 +86,6 @@ student-retention-ml/
 │   ├── Student.xlsx             # Dataset (add to .gitignore if sensitive)
 │   └── README.md                # Dataset description & schema
 │
-├── outputs/                     # Saved plots and results
-│
-├── requirements.txt             # Python dependencies
-├── .gitignore
 └── README.md
 ```
 
