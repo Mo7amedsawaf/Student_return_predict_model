@@ -139,4 +139,4 @@ See `requirements.txt` for the full list. Key libraries:
 
 ## 📄 License
 
-This project is for academic purposes only.
+This project is for Learning purposes only.
