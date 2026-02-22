@@ -128,15 +128,6 @@ See `requirements.txt` for the full list. Key libraries:
 
 ---
 
-## 👥 Team
-
-| Role | Name |
-|---|---|
-| Supervisor | Prof. Dr. Ahmed Yousry |
-| Supervisor | Eng. Walaa Khaled |
-
----
-
 ## 📄 License
 
 This project is for Learning purposes only.
